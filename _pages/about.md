@@ -41,15 +41,15 @@ I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkunlp.github
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv)
 : **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-: First author
+: First author | Code available on GitHub
 
 **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)
 : **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-: First author | Code: [Vision4Chart](https://github.com/Vision4Chart)
+: First author | Code: Vision4Chart (GitHub)
 
 **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
 : **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He
-: First author | Code: [Universal_Truthfulness_Hyperplane](https://github.com/junteng-liu/Universal_Truthfulness_Hyperplane)
+: First author | Code: Universal_Truthfulness_Hyperplane (GitHub)
 
 ### Co-Author
 
